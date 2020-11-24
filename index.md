@@ -14,7 +14,7 @@ This is a game developed during an Eng1 module
 [Link](Architecture.pdf)
 
 ## Method Selection And Planning
-[Link](Plan.pdf)
+[Link](Method Selection And Planning.pdf)
 
 ## Risk Managment
 [Link](RiskManagment.pdf)
