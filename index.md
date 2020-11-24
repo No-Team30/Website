@@ -1,8 +1,6 @@
 # Auber Game
 This is a game developed during an Eng1 module
 
-[Requirements](Requirements.pdf)
-
 ## Documentation
 [Link](docs)
 
@@ -10,7 +8,7 @@ This is a game developed during an Eng1 module
 [Link](desktop-1.0.jar)
 
 ## Requirements Specification
-[Link](Requirements Specification.pdf)
+[Link](Requirements.pdf)
 
 ## Architecture 
 [Link](Architecture.pdf)
@@ -19,14 +17,12 @@ This is a game developed during an Eng1 module
 [Link](Plan.pdf)
 
 ## Risk Managment
-[Link](Risk.pdf)
+[Link](RiskManagment.pdf)
 
 ## Missing Implementation
-[Link](Missing Implementation.pdf)
+[Link](MissingImplementation.pdf)
 
 
-## UML Diagrams
-[Link](UML)
 
 ## Gantt Charts
 [Week 1](Gantt Charts/MK1.pdf)
