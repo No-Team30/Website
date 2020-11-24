@@ -8,3 +8,10 @@ This is a game developed during an Eng1 module
 
 ## Desktop 1.0 Executable
 [Link](desktop-1.0.jar)
+
+##Risk Managment
+[Link](Risk.pdf)
+
+
+##Method Selection And Planning
+[Link](Plan.pdf)
